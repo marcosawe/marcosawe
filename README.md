@@ -10,7 +10,7 @@
 ## A little about myself
 <hr>
 
-- I'm 17 years old, and I'm studying computer engineering at the University of Uberaba!
+- I'm 18 years old, and I'm studying computer engineering at the University of Uberaba!
 - After completing my third year of high school in 2020, I found myself willing and prepared to attend the college of my life, Computer engineering.
 - I am passionate about technology and information security and I intend to continue in this area after college.
 
